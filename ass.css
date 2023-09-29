@@ -1,0 +1,31 @@
+body
+{
+    background-image:url(./Images/bg1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#p1
+{
+    color:aliceblue;
+    font-size: large;
+}
+#td1
+{
+ padding-bottom: 650px; 
+ text-align: center;
+ background-color: rgb(255, 0, 0);
+}
+#td2
+{
+    padding-left: 15px;
+    padding-top: 120px;
+    
+}
+.fiverr
+{
+    padding-left: 30px;
+}
+h2
+{
+    color: yellow;  
+}
